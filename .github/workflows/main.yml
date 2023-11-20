@@ -32,6 +32,7 @@ jobs:
         python -m pip install fastapi
         python -m pip install httpx
         python -m pip install sqlalchemy
+        python -m pip install uvicorn
         python -m pip install black pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
