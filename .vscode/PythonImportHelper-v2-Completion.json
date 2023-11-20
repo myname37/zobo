@@ -1,0 +1,1798 @@
+[
+    {
+        "label": "UserRegisterSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketUpdateSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketUpdateSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bucket",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bucket",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bucket",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bucket",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "db.models",
+        "description": "db.models",
+        "isExtraImport": true,
+        "detail": "db.models",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_by_email",
+        "importPath": "db.repository.user",
+        "description": "db.repository.user",
+        "isExtraImport": true,
+        "detail": "db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "importPath": "db.repository.user",
+        "description": "db.repository.user",
+        "isExtraImport": true,
+        "detail": "db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_by_email",
+        "importPath": "db.repository.user",
+        "description": "db.repository.user",
+        "isExtraImport": true,
+        "detail": "db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_by_id",
+        "importPath": "db.repository.user",
+        "description": "db.repository.user",
+        "isExtraImport": true,
+        "detail": "db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "importPath": "db.repository.user",
+        "description": "db.repository.user",
+        "isExtraImport": true,
+        "detail": "db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_by_email",
+        "importPath": "db.repository.user",
+        "description": "db.repository.user",
+        "isExtraImport": true,
+        "detail": "db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Security",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "JwtAuthHelper",
+        "importPath": "helpers.auth",
+        "description": "helpers.auth",
+        "isExtraImport": true,
+        "detail": "helpers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "JwtAuthHelper",
+        "importPath": "helpers.auth",
+        "description": "helpers.auth",
+        "isExtraImport": true,
+        "detail": "helpers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "JwtAuthHelper",
+        "importPath": "helpers.auth",
+        "description": "helpers.auth",
+        "isExtraImport": true,
+        "detail": "helpers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "query_bucket_by_id",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_bucket_by_user_id",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_buckets_by_user_id",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "add_single_bucket",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "add_multiple_buckets",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_buckets_by_visibility",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_bucket_by_user_id",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_buckets_by_user_id",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_buckets_by_visibility",
+        "importPath": "db.repository.bucket",
+        "description": "db.repository.bucket",
+        "isExtraImport": true,
+        "detail": "db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "controllers",
+        "description": "controllers",
+        "isExtraImport": true,
+        "detail": "controllers",
+        "documentation": {}
+    },
+    {
+        "label": "bucket",
+        "importPath": "controllers",
+        "description": "controllers",
+        "isExtraImport": true,
+        "detail": "controllers",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "controllers",
+        "description": "controllers",
+        "isExtraImport": true,
+        "detail": "controllers",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "dependency",
+        "description": "dependency",
+        "isExtraImport": true,
+        "detail": "dependency",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "dependency",
+        "description": "dependency",
+        "isExtraImport": true,
+        "detail": "dependency",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "dependency",
+        "description": "dependency",
+        "isExtraImport": true,
+        "detail": "dependency",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "dependency",
+        "description": "dependency",
+        "isExtraImport": true,
+        "detail": "dependency",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_test_user_auth_header",
+        "importPath": "tests.utils.user",
+        "description": "tests.utils.user",
+        "isExtraImport": true,
+        "detail": "tests.utils.user",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "bucket",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "constr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "src.controllers.auth",
+        "description": "src.controllers.auth",
+        "peekOfCode": "def create_user(db: Session, user_data: UserRegisterSchema):\n    \"\"\"\n    @Route: POST /api/v1/auth/register\n    @Description: Register a new user\n    @Args:\n        db {Session} - Database session\n        user_data {UserRegisterSchema} - User Registration data\n    @Requires Auth: False\n    \"\"\"\n    try:",
+        "detail": "src.controllers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "src.controllers.auth",
+        "description": "src.controllers.auth",
+        "peekOfCode": "def create_access_token(db: Session, email: str, password: str):\n    \"\"\"\n    @Route: POST /api/v1/auth/login\n    @Description: Create an access token to authenticate a user\n    @Args:\n        db {Session} - Database session\n        email {str}  - User E-mail\n        password {str} - User Password\n    @Requires Auth: False\n    \"\"\"",
+        "detail": "src.controllers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "auth_helper",
+        "kind": 5,
+        "importPath": "src.controllers.auth",
+        "description": "src.controllers.auth",
+        "peekOfCode": "auth_helper = JwtAuthHelper()\ndef create_user(db: Session, user_data: UserRegisterSchema):\n    \"\"\"\n    @Route: POST /api/v1/auth/register\n    @Description: Register a new user\n    @Args:\n        db {Session} - Database session\n        user_data {UserRegisterSchema} - User Registration data\n    @Requires Auth: False\n    \"\"\"",
+        "detail": "src.controllers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_bucket",
+        "kind": 2,
+        "importPath": "src.controllers.bucket",
+        "description": "src.controllers.bucket",
+        "peekOfCode": "def create_new_bucket(db: Session, bucket_data: BucketSchema, user_id: int):\n    \"\"\"\n    @Route: POST /api/v1/bucket\n    @Description: Create a new bucket in the database\n    @Args:\n        db {Session} - Database session\n        bucket_data {BucketSchema} - Bucket data\n        user_id {int} - User ID\n    @Requires Auth: True\n    \"\"\"",
+        "detail": "src.controllers.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_buckets",
+        "kind": 2,
+        "importPath": "src.controllers.bucket",
+        "description": "src.controllers.bucket",
+        "peekOfCode": "def create_new_buckets(db: Session, buckets_data: List[BucketSchema], user_id: int):\n    \"\"\"\n    @Route: POST /api/v1/buckets\n    @Description: Create new buckets (multiple)\n    @Args:\n        db {Session} - Database Session\n        buckets_data {[BucketSchema]} - List of buckets to be added\n        user_id {int} - User ID\n    \"\"\"\n    try:",
+        "detail": "src.controllers.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "update_bucket",
+        "kind": 2,
+        "importPath": "src.controllers.bucket",
+        "description": "src.controllers.bucket",
+        "peekOfCode": "def update_bucket(\n    db: Session, bucket_data: BucketUpdateSchema, user_id: int, bucket_id: int\n):\n    \"\"\"\n    @Route: PUT /api/v1/bucket/{bucket_id}\n    @Description: Update an existing bucket\n    @Args:\n        db {Session} - Database session\n        bucket_data {BucketSchema} - Bucket data to be updated\n        bucket_id {int} - ID of bucket to be updated in the database",
+        "detail": "src.controllers.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "delete_bucket",
+        "kind": 2,
+        "importPath": "src.controllers.bucket",
+        "description": "src.controllers.bucket",
+        "peekOfCode": "def delete_bucket(db: Session, user_id: int, bucket_id: int):\n    \"\"\"\n    @Route: DELETE /api/v1/bucket/{bucket_id}\n    @Description: Delete an existing bucket\n    @Args:\n        db {Session} - Database session\n        bucket_id {int} - ID of bucket to be deleted from the database\n        user_id {int} - User ID\n    \"\"\"\n    existing_bucket = query_bucket_by_id(db, bucket_id)",
+        "detail": "src.controllers.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_public_buckets",
+        "kind": 2,
+        "importPath": "src.controllers.bucket",
+        "description": "src.controllers.bucket",
+        "peekOfCode": "def get_all_public_buckets(db: Session):\n    \"\"\"\n    @Route: GET /api/v1/buckets/public\n    @Description: Get all public buckets\n    @Args:\n        db {Session} - Database session\n    @Requires Auth: True\n    \"\"\"\n    public_buckets = query_buckets_by_visibility(db, visibility=\"public\")\n    if not public_buckets:",
+        "detail": "src.controllers.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "src.controllers.user",
+        "description": "src.controllers.user",
+        "peekOfCode": "def get_user(db: Session, user_id: int):\n    \"\"\"\n    @Route: GET /api/v1/user\n    @Description: Get a full user profile\n    @Args:\n        db {Session} - Database session\n        user_id {int} - User ID\n    @Requires Auth: True\n    \"\"\"\n    user = query_user_by_id(db, user_id)",
+        "detail": "src.controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "src.controllers.user",
+        "description": "src.controllers.user",
+        "peekOfCode": "def update_user(db: Session, user_data: UserUpdateSchema, user_id: int):\n    \"\"\"\n    @Route: PUT /api/v1/user\n    @Description: Update a user's profile\n    @Args:\n        db {Session} - Database session\n        user_data {UserSchema} - User Schema\n        user_id {int} - User ID\n    @Requires Auth: True\n    \"\"\"",
+        "detail": "src.controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "src.controllers.user",
+        "description": "src.controllers.user",
+        "peekOfCode": "def delete_user(db: Session, user_id: int):\n    \"\"\"\n    @Route: DELETE /api/v1/user\n    @Description: Get a full user profile\n    @Args:\n        db {Session} - Database session\n        user_id {int} - User ID\n    @Requires Auth: True\n    \"\"\"\n    existing_user = query_user_by_id(db, user_id)",
+        "detail": "src.controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "src.controllers.user",
+        "description": "src.controllers.user",
+        "peekOfCode": "def get_user_by_id(db: Session, user_id: int):\n    \"\"\"\n    @Route: GET /api/v1/user/{user_id}\n    @Description: Get user by ID (public)\n    @Args:\n        db {Session} - Database Session\n        user_id {int} - User ID\n    @Requires Auth: False\n    \"\"\"\n    user = query_user_by_id(db, user_id)",
+        "detail": "src.controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_buckets",
+        "kind": 2,
+        "importPath": "src.controllers.user",
+        "description": "src.controllers.user",
+        "peekOfCode": "def get_user_buckets(db: Session, user_id: int):\n    \"\"\"\n    @Route: GET /api/v1/user/buckets\n    @Description: Get user buckets\n    @Args:\n        db {Session} - Database Session\n        user_id {int} - User ID\n    @Requires Auth: True\n    \"\"\"\n    user_buckets = query_buckets_by_user_id(db, user_id)",
+        "detail": "src.controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_bucket_by_id",
+        "kind": 2,
+        "importPath": "src.controllers.user",
+        "description": "src.controllers.user",
+        "peekOfCode": "def get_user_bucket_by_id(db: Session, user_id: int, bucket_id: int):\n    \"\"\"\n    @Route: GET /api/v1/user/bucket/{bucket_id}\n    @Description: Get user buckets by ID\n    @Args:\n        db {Session} - Database Session\n        user_id {int} - User ID\n        bucket_id {int} - Bucket ID\n    @Requires Auth: True\n    \"\"\"",
+        "detail": "src.controllers.user",
+        "documentation": {}
+    },
+    {
+        "label": "query_bucket_by_id",
+        "kind": 2,
+        "importPath": "src.db.repository.bucket",
+        "description": "src.db.repository.bucket",
+        "peekOfCode": "def query_bucket_by_id(db: Session, bucket_id: int):\n    bucket = db.query(BucketModel).filter_by(id=bucket_id).first()\n    return bucket\ndef query_bucket_by_user_id(db: Session, user_id: int, bucket_id: int):\n    bucket = db.query(BucketModel).filter_by(id=bucket_id, user_id=user_id).first()\n    return bucket\ndef query_buckets_by_user_id(db: Session, user_id: int):\n    buckets = db.query(BucketModel).filter_by(user_id=user_id).all()\n    return buckets\ndef query_buckets_by_visibility(db: Session, visibility: str = \"public\"):",
+        "detail": "src.db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_bucket_by_user_id",
+        "kind": 2,
+        "importPath": "src.db.repository.bucket",
+        "description": "src.db.repository.bucket",
+        "peekOfCode": "def query_bucket_by_user_id(db: Session, user_id: int, bucket_id: int):\n    bucket = db.query(BucketModel).filter_by(id=bucket_id, user_id=user_id).first()\n    return bucket\ndef query_buckets_by_user_id(db: Session, user_id: int):\n    buckets = db.query(BucketModel).filter_by(user_id=user_id).all()\n    return buckets\ndef query_buckets_by_visibility(db: Session, visibility: str = \"public\"):\n    buckets = db.query(BucketModel).filter_by(visibility=visibility).all()\n    return buckets\ndef query_user_buckets_by_visibility(",
+        "detail": "src.db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_buckets_by_user_id",
+        "kind": 2,
+        "importPath": "src.db.repository.bucket",
+        "description": "src.db.repository.bucket",
+        "peekOfCode": "def query_buckets_by_user_id(db: Session, user_id: int):\n    buckets = db.query(BucketModel).filter_by(user_id=user_id).all()\n    return buckets\ndef query_buckets_by_visibility(db: Session, visibility: str = \"public\"):\n    buckets = db.query(BucketModel).filter_by(visibility=visibility).all()\n    return buckets\ndef query_user_buckets_by_visibility(\n    db: Session, user_id: int, visibility: str = \"public\"\n):\n    buckets = (",
+        "detail": "src.db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_buckets_by_visibility",
+        "kind": 2,
+        "importPath": "src.db.repository.bucket",
+        "description": "src.db.repository.bucket",
+        "peekOfCode": "def query_buckets_by_visibility(db: Session, visibility: str = \"public\"):\n    buckets = db.query(BucketModel).filter_by(visibility=visibility).all()\n    return buckets\ndef query_user_buckets_by_visibility(\n    db: Session, user_id: int, visibility: str = \"public\"\n):\n    buckets = (\n        db.query(BucketModel).filter_by(user_id=user_id, visibility=visibility).all()\n    )\n    return buckets",
+        "detail": "src.db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_buckets_by_visibility",
+        "kind": 2,
+        "importPath": "src.db.repository.bucket",
+        "description": "src.db.repository.bucket",
+        "peekOfCode": "def query_user_buckets_by_visibility(\n    db: Session, user_id: int, visibility: str = \"public\"\n):\n    buckets = (\n        db.query(BucketModel).filter_by(user_id=user_id, visibility=visibility).all()\n    )\n    return buckets\ndef add_single_bucket(db: Session, bucket_data: BucketSchema, user_id: int):\n    new_bucket = BucketModel(**bucket_data.dict(), user_id=user_id)\n    db.add(new_bucket)",
+        "detail": "src.db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "add_single_bucket",
+        "kind": 2,
+        "importPath": "src.db.repository.bucket",
+        "description": "src.db.repository.bucket",
+        "peekOfCode": "def add_single_bucket(db: Session, bucket_data: BucketSchema, user_id: int):\n    new_bucket = BucketModel(**bucket_data.dict(), user_id=user_id)\n    db.add(new_bucket)\n    db.commit()\n    db.refresh(new_bucket)\n    return new_bucket\ndef add_multiple_buckets(db: Session, buckets_data: [BucketSchema], user_id: int):\n    new_buckets = [\n        BucketModel(**bucket_data.dict(), user_id=user_id)\n        for bucket_data in buckets_data",
+        "detail": "src.db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "add_multiple_buckets",
+        "kind": 2,
+        "importPath": "src.db.repository.bucket",
+        "description": "src.db.repository.bucket",
+        "peekOfCode": "def add_multiple_buckets(db: Session, buckets_data: [BucketSchema], user_id: int):\n    new_buckets = [\n        BucketModel(**bucket_data.dict(), user_id=user_id)\n        for bucket_data in buckets_data\n    ]\n    db.bulk_save_objects(new_buckets)\n    db.commit()\n    return new_buckets",
+        "detail": "src.db.repository.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_by_email",
+        "kind": 2,
+        "importPath": "src.db.repository.user",
+        "description": "src.db.repository.user",
+        "peekOfCode": "def query_user_by_email(db: Session, email: str):\n    user = db.query(UserModel).filter_by(email=email).first()\n    return user\ndef query_user_by_id(db: Session, user_id: int):\n    user = db.query(UserModel).filter_by(id=user_id).first()\n    return user\ndef add_user(db: Session, user_data: UserRegisterSchema):\n    user = UserModel(\n        email=user_data.email,\n        username=user_data.username,",
+        "detail": "src.db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "query_user_by_id",
+        "kind": 2,
+        "importPath": "src.db.repository.user",
+        "description": "src.db.repository.user",
+        "peekOfCode": "def query_user_by_id(db: Session, user_id: int):\n    user = db.query(UserModel).filter_by(id=user_id).first()\n    return user\ndef add_user(db: Session, user_data: UserRegisterSchema):\n    user = UserModel(\n        email=user_data.email,\n        username=user_data.username,\n        bio=user_data.bio,\n        location=user_data.location,\n        phone_number=user_data.phone_number,",
+        "detail": "src.db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "kind": 2,
+        "importPath": "src.db.repository.user",
+        "description": "src.db.repository.user",
+        "peekOfCode": "def add_user(db: Session, user_data: UserRegisterSchema):\n    user = UserModel(\n        email=user_data.email,\n        username=user_data.username,\n        bio=user_data.bio,\n        location=user_data.location,\n        phone_number=user_data.phone_number,\n        website=user_data.website,\n    )\n    user.set_password(user_data.password)",
+        "detail": "src.db.repository.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "src.db.models",
+        "description": "src.db.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True)\n    username = Column(String, nullable=False, unique=True)\n    email = Column(String, nullable=False, unique=True)\n    password = Column(String, nullable=False)\n    bio = Column(String, nullable=True)\n    location = Column(String, nullable=True)\n    website = Column(String, nullable=True)\n    phone_number = Column(String, nullable=True)",
+        "detail": "src.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bucket",
+        "kind": 6,
+        "importPath": "src.db.models",
+        "description": "src.db.models",
+        "peekOfCode": "class Bucket(Base):\n    __tablename__ = \"buckets\"\n    id = Column(Integer, primary_key=True)\n    goal = Column(String, nullable=False)\n    category = Column(String, nullable=False)\n    active = Column(Boolean, nullable=False, default=True)\n    visibility = Column(\n        String, Enum(\"public\", \"private\"), nullable=True, default=\"public\"\n    )\n    user_id = Column(Integer, ForeignKey(\"users.id\"))",
+        "detail": "src.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "src.db.models",
+        "description": "src.db.models",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nclass User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True)\n    username = Column(String, nullable=False, unique=True)\n    email = Column(String, nullable=False, unique=True)\n    password = Column(String, nullable=False)\n    bio = Column(String, nullable=True)\n    location = Column(String, nullable=True)\n    website = Column(String, nullable=True)",
+        "detail": "src.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "JwtAuthHelper",
+        "kind": 6,
+        "importPath": "src.helpers.auth",
+        "description": "src.helpers.auth",
+        "peekOfCode": "class JwtAuthHelper:\n    def __init__(self):\n        self.secret = JWT_SECRET_KEY\n    def encode_jwt(self, user_id: int) -> str:\n        \"\"\"Encode the JWT token\"\"\"\n        # Token expires in 30 mins\n        payload = {\n            \"exp\": datetime.utcnow() + timedelta(days=0, minutes=30),\n            \"iat\": datetime.utcnow(),\n            \"sub\": user_id,",
+        "detail": "src.helpers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_SECRET_KEY",
+        "kind": 5,
+        "importPath": "src.helpers.auth",
+        "description": "src.helpers.auth",
+        "peekOfCode": "JWT_SECRET_KEY = config(\"JWT_SECRET_KEY\")\nclass JwtAuthHelper:\n    def __init__(self):\n        self.secret = JWT_SECRET_KEY\n    def encode_jwt(self, user_id: int) -> str:\n        \"\"\"Encode the JWT token\"\"\"\n        # Token expires in 30 mins\n        payload = {\n            \"exp\": datetime.utcnow() + timedelta(days=0, minutes=30),\n            \"iat\": datetime.utcnow(),",
+        "detail": "src.helpers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "src.routes.auth",
+        "description": "src.routes.auth",
+        "peekOfCode": "def register(user_data: UserRegisterSchema, db: Session = Depends(get_db)):\n    return auth_controller.create_user(db, user_data)\n@router.post(\"/auth/login\", response_model=dict)\ndef login(user_data: UserLoginSchema, db: Session = Depends(get_db)):\n    return auth_controller.create_access_token(db, user_data.email, user_data.password)",
+        "detail": "src.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "src.routes.auth",
+        "description": "src.routes.auth",
+        "peekOfCode": "def login(user_data: UserLoginSchema, db: Session = Depends(get_db)):\n    return auth_controller.create_access_token(db, user_data.email, user_data.password)",
+        "detail": "src.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.routes.auth",
+        "description": "src.routes.auth",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/auth/register\", response_model=dict)\ndef register(user_data: UserRegisterSchema, db: Session = Depends(get_db)):\n    return auth_controller.create_user(db, user_data)\n@router.post(\"/auth/login\", response_model=dict)\ndef login(user_data: UserLoginSchema, db: Session = Depends(get_db)):\n    return auth_controller.create_access_token(db, user_data.email, user_data.password)",
+        "detail": "src.routes.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_bucket",
+        "kind": 2,
+        "importPath": "src.routes.bucket",
+        "description": "src.routes.bucket",
+        "peekOfCode": "def create_bucket(\n    bucket_data: BucketSchema,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return bucket_controller.create_new_bucket(db, bucket_data, user_id)\n@router.post(\"/buckets\", response_model=dict)\ndef create_buckets(\n    buckets_data: List[BucketSchema],\n    db: Session = Depends(get_db),",
+        "detail": "src.routes.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "create_buckets",
+        "kind": 2,
+        "importPath": "src.routes.bucket",
+        "description": "src.routes.bucket",
+        "peekOfCode": "def create_buckets(\n    buckets_data: List[BucketSchema],\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return bucket_controller.create_new_buckets(db, buckets_data, user_id)\n@router.put(\"/bucket/{bucket_id}\", response_model=dict)\ndef update_bucket(\n    bucket_id: int,\n    bucket_data: BucketUpdateSchema,",
+        "detail": "src.routes.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "update_bucket",
+        "kind": 2,
+        "importPath": "src.routes.bucket",
+        "description": "src.routes.bucket",
+        "peekOfCode": "def update_bucket(\n    bucket_id: int,\n    bucket_data: BucketUpdateSchema,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return bucket_controller.update_bucket(db, bucket_data, user_id, bucket_id)\n@router.delete(\"/bucket/{bucket_id}\", response_model=dict)\ndef delete_bucket(\n    bucket_id: int,",
+        "detail": "src.routes.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "delete_bucket",
+        "kind": 2,
+        "importPath": "src.routes.bucket",
+        "description": "src.routes.bucket",
+        "peekOfCode": "def delete_bucket(\n    bucket_id: int,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return bucket_controller.delete_bucket(db, user_id, bucket_id)\n@router.get(\"/buckets/public\", response_model=dict)\ndef get_public_buckets(db: Session = Depends(get_db)):\n    return bucket_controller.get_all_public_buckets(db)",
+        "detail": "src.routes.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "get_public_buckets",
+        "kind": 2,
+        "importPath": "src.routes.bucket",
+        "description": "src.routes.bucket",
+        "peekOfCode": "def get_public_buckets(db: Session = Depends(get_db)):\n    return bucket_controller.get_all_public_buckets(db)",
+        "detail": "src.routes.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.routes.bucket",
+        "description": "src.routes.bucket",
+        "peekOfCode": "router = APIRouter()\nauth_helper = JwtAuthHelper()\n@router.post(\"/bucket\", response_model=dict)\ndef create_bucket(\n    bucket_data: BucketSchema,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return bucket_controller.create_new_bucket(db, bucket_data, user_id)\n@router.post(\"/buckets\", response_model=dict)",
+        "detail": "src.routes.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "auth_helper",
+        "kind": 5,
+        "importPath": "src.routes.bucket",
+        "description": "src.routes.bucket",
+        "peekOfCode": "auth_helper = JwtAuthHelper()\n@router.post(\"/bucket\", response_model=dict)\ndef create_bucket(\n    bucket_data: BucketSchema,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return bucket_controller.create_new_bucket(db, bucket_data, user_id)\n@router.post(\"/buckets\", response_model=dict)\ndef create_buckets(",
+        "detail": "src.routes.bucket",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "def get_user(\n    db: Session = Depends(get_db), user_id: int = Depends(auth_helper.auth_wrapper)\n):\n    return user_controller.get_user(db, user_id)\n@router.put(\"/user\", response_model=dict)\ndef update_user(\n    user_data: UserUpdateSchema,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "def update_user(\n    user_data: UserUpdateSchema,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return user_controller.update_user(db, user_data, user_id)\n@router.delete(\"/user\", response_model=dict)\ndef delete_user(\n    db: Session = Depends(get_db), user_id: int = Depends(auth_helper.auth_wrapper)\n):",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "def delete_user(\n    db: Session = Depends(get_db), user_id: int = Depends(auth_helper.auth_wrapper)\n):\n    return user_controller.delete_user(db, user_id)\n@router.get(\"/user/buckets\", response_model=dict)\ndef get_user_buckets(\n    db: Session = Depends(get_db), user_id: int = Depends(auth_helper.auth_wrapper)\n):\n    return user_controller.get_user_buckets(db, user_id)\n@router.get(\"/user/bucket/{bucket_id}\", response_model=dict)",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_buckets",
+        "kind": 2,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "def get_user_buckets(\n    db: Session = Depends(get_db), user_id: int = Depends(auth_helper.auth_wrapper)\n):\n    return user_controller.get_user_buckets(db, user_id)\n@router.get(\"/user/bucket/{bucket_id}\", response_model=dict)\ndef get_user_bucket_by_id(\n    bucket_id: int,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_bucket_by_id",
+        "kind": 2,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "def get_user_bucket_by_id(\n    bucket_id: int,\n    db: Session = Depends(get_db),\n    user_id: int = Depends(auth_helper.auth_wrapper),\n):\n    return user_controller.get_user_bucket_by_id(db, user_id, bucket_id)\n@router.get(\"/user/{user_id}\", response_model=dict)\ndef get_user_by_id(user_id: int, db: Session = Depends(get_db)):\n    return user_controller.get_user_by_id(db, user_id)",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "def get_user_by_id(user_id: int, db: Session = Depends(get_db)):\n    return user_controller.get_user_by_id(db, user_id)",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "auth_helper",
+        "kind": 5,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "auth_helper = JwtAuthHelper()\nrouter = APIRouter()\n@router.get(\"/user\", response_model=dict)\ndef get_user(\n    db: Session = Depends(get_db), user_id: int = Depends(auth_helper.auth_wrapper)\n):\n    return user_controller.get_user(db, user_id)\n@router.put(\"/user\", response_model=dict)\ndef update_user(\n    user_data: UserUpdateSchema,",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.routes.user",
+        "description": "src.routes.user",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/user\", response_model=dict)\ndef get_user(\n    db: Session = Depends(get_db), user_id: int = Depends(auth_helper.auth_wrapper)\n):\n    return user_controller.get_user(db, user_id)\n@router.put(\"/user\", response_model=dict)\ndef update_user(\n    user_data: UserUpdateSchema,\n    db: Session = Depends(get_db),",
+        "detail": "src.routes.user",
+        "documentation": {}
+    },
+    {
+        "label": "test_register",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_auth",
+        "description": "src.tests.routes.test_auth",
+        "peekOfCode": "def test_register(client: TestClient):\n    data = {\n        \"email\": \"buhari@gmail.com\",\n        \"password\": \"Password1!\",\n        \"username\": \"buhari\",\n        \"phone_number\": \"07085130123\",\n        \"bio\": \"President of this woebegone Nation\",\n    }\n    response = client.post(\"/api/v1/auth/register\", json=data)\n    assert response.status_code == 200, response.text",
+        "detail": "src.tests.routes.test_auth",
+        "documentation": {}
+    },
+    {
+        "label": "test_login",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_auth",
+        "description": "src.tests.routes.test_auth",
+        "peekOfCode": "def test_login(client: TestClient):\n    data = {\"email\": \"buhari@gmail.com\", \"password\": \"Password1!\"}\n    response = client.post(\"/api/v1/auth/login\", json=data)\n    assert response.status_code == 200, response.text\n    response_data = response.json()\n    user_data = response_data[\"data\"]\n    assert user_data[\"email\"] == \"buhari@gmail.com\"\n    assert \"id\" in user_data\n    assert \"access_token\" in response_data\n    assert len(response_data[\"access_token\"])",
+        "detail": "src.tests.routes.test_auth",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_bucket_auth_required",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_bucket",
+        "description": "src.tests.routes.test_bucket",
+        "peekOfCode": "def test_create_bucket_auth_required(client: TestClient):\n    response = client.post(\"/api/v1/bucket\")\n    assert response.status_code == 403  # Forbidden\n    response_data = response.json()\n    assert \"detail\" in response_data\n# Test the Bucket update endpoint without auth - PUT /api/v1/bucket/{bucket_id}\ndef test_update_bucket_auth_required(client: TestClient):\n    response = client.put(\"/api/v1/bucket/1\")\n    assert response.status_code == 403  # Forbidden\n    response_data = response.json()",
+        "detail": "src.tests.routes.test_bucket",
+        "documentation": {}
+    },
+    {
+        "label": "test_update_bucket_auth_required",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_bucket",
+        "description": "src.tests.routes.test_bucket",
+        "peekOfCode": "def test_update_bucket_auth_required(client: TestClient):\n    response = client.put(\"/api/v1/bucket/1\")\n    assert response.status_code == 403  # Forbidden\n    response_data = response.json()\n    assert \"detail\" in response_data\n# Test the Bucket delete endpoint without auth - DELETE /api/v1/bucket/{bucket_id}\ndef test_delete_bucket_auth_required(client: TestClient):\n    response = client.delete(\"/api/v1/bucket/1\")\n    assert response.status_code == 403  # Forbidden\n    response_data = response.json()",
+        "detail": "src.tests.routes.test_bucket",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_bucket_auth_required",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_bucket",
+        "description": "src.tests.routes.test_bucket",
+        "peekOfCode": "def test_delete_bucket_auth_required(client: TestClient):\n    response = client.delete(\"/api/v1/bucket/1\")\n    assert response.status_code == 403  # Forbidden\n    response_data = response.json()\n    assert \"detail\" in response_data\n# Test the Bucket creation endpoint with auth - POST /api/v1/bucket/{bucket_id}\ndef test_create_bucket(client: TestClient, create_test_user_auth_header):\n    data = {\n        \"goal\": \"Travel to Saturn\",\n        \"category\": \"Travel\",",
+        "detail": "src.tests.routes.test_bucket",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_bucket",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_bucket",
+        "description": "src.tests.routes.test_bucket",
+        "peekOfCode": "def test_create_bucket(client: TestClient, create_test_user_auth_header):\n    data = {\n        \"goal\": \"Travel to Saturn\",\n        \"category\": \"Travel\",\n        \"active\": True,\n        \"visibility\": \"private\",\n        \"due_date\": \"2021-12-06T14:48:53.203Z\",\n    }\n    response = client.post(\n        \"/api/v1/bucket\", json=data, headers=create_test_user_auth_header",
+        "detail": "src.tests.routes.test_bucket",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_multiple_buckets",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_bucket",
+        "description": "src.tests.routes.test_bucket",
+        "peekOfCode": "def test_create_multiple_buckets(client: TestClient, create_test_user_auth_header):\n    data = [\n        {\n            \"goal\": \"Test Bucket 1\",\n            \"category\": \"Test Category\",\n            \"active\": True,\n            \"visibility\": \"private\",\n            \"due_date\": \"2021-12-06T14:48:53.203Z\",\n        },\n        {",
+        "detail": "src.tests.routes.test_bucket",
+        "documentation": {}
+    },
+    {
+        "label": "test_update_bucket",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_bucket",
+        "description": "src.tests.routes.test_bucket",
+        "peekOfCode": "def test_update_bucket(client: TestClient, create_test_user_auth_header):\n    data = {\n        \"goal\": \"Updated Test Bucket 1\",\n        \"category\": \"Updated Category\",\n        \"due_date\": \"2025-12-15T14:48:53.203Z\",\n        \"visibility\": \"public\",\n    }\n    response = client.put(\n        \"/api/v1/bucket/1\", json=data, headers=create_test_user_auth_header\n    )",
+        "detail": "src.tests.routes.test_bucket",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_bucket",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_bucket",
+        "description": "src.tests.routes.test_bucket",
+        "peekOfCode": "def test_delete_bucket(client: TestClient, create_test_user_auth_header):\n    response = client.delete(\"/api/v1/bucket/1\", headers=create_test_user_auth_header)\n    assert response.status_code == 200, response.text\n    response_data = response.json()\n    assert \"data\" in response_data",
+        "detail": "src.tests.routes.test_bucket",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_user_auth_required",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_get_user_auth_required(client: TestClient):\n    response = client.get(\"/api/v1/user\")\n    assert response.status_code == 403  # Forbidden\n    response_data = response.json()\n    assert \"detail\" in response_data\n# Test the Get user endpoint with auth - GET /api/v1/user\ndef test_get_user(client: TestClient, create_test_user_auth_header):\n    response = client.get(\"/api/v1/user\", headers=create_test_user_auth_header)\n    assert response.status_code == 200, response.text\n    response_data = response.json()",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_user",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_get_user(client: TestClient, create_test_user_auth_header):\n    response = client.get(\"/api/v1/user\", headers=create_test_user_auth_header)\n    assert response.status_code == 200, response.text\n    response_data = response.json()\n    assert \"data\" in response_data\n    user_data = response_data[\"data\"][\"user\"]\n    assert \"buckets\" in response_data[\"data\"]\n    buckets_data = response_data[\"data\"][\"buckets\"]\n    assert \"id\" in user_data\n    assert \"email\" in user_data",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_user_invalid_token",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_get_user_invalid_token(client: TestClient):\n    invalid_auth_header = {\"Authorization\": \"Bearer wrong.header\"}\n    response = client.get(\"/api/v1/user\", headers=invalid_auth_header)\n    assert response.status_code == 401, response.text\n    response_data = response.json()\n    assert \"detail\" in response_data\n# Test the Update user endpoint without auth - PUT /api/v1/user\ndef test_update_user_auth_required(client: TestClient):\n    response = client.put(\"/api/v1/user\")\n    assert response.status_code == 403",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_update_user_auth_required",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_update_user_auth_required(client: TestClient):\n    response = client.put(\"/api/v1/user\")\n    assert response.status_code == 403\n    response_data = response.json()\n    assert \"detail\" in response_data\n# Test the Update user endpoint with auth - PUT /api/v1/user\ndef test_update_user(client: TestClient, create_test_user_auth_header):\n    data = {\"location\": \"Updated Location Test\", \"bio\": \"Updated Bio Test\"}\n    response = client.put(\n        \"/api/v1/user\", json=data, headers=create_test_user_auth_header",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_update_user",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_update_user(client: TestClient, create_test_user_auth_header):\n    data = {\"location\": \"Updated Location Test\", \"bio\": \"Updated Bio Test\"}\n    response = client.put(\n        \"/api/v1/user\", json=data, headers=create_test_user_auth_header\n    )\n    assert response.status_code == 200, response.text\n    response_data = response.json()[\"data\"]\n    assert \"id\" in response_data\n    assert \"updated_at\" in response_data\n    assert response_data[\"bio\"] == data[\"bio\"]",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_delete_user_auth_required",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_delete_user_auth_required(client: TestClient):\n    response = client.delete(\"/api/v1/user\")\n    assert response.status_code == 403\n    response_data = response.json()\n    assert \"detail\" in response_data\n# Test the Get user buckets endpoint - GET /api/v1/user/buckets\ndef test_get_user_buckets(client: TestClient, create_test_user_auth_header):\n    response = client.get(\"/api/v1/user/buckets\", headers=create_test_user_auth_header)\n    # Buckets might be empty\n    assert response.status_code == 200 or response.status_code == 404, response.text",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_user_buckets",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_get_user_buckets(client: TestClient, create_test_user_auth_header):\n    response = client.get(\"/api/v1/user/buckets\", headers=create_test_user_auth_header)\n    # Buckets might be empty\n    assert response.status_code == 200 or response.status_code == 404, response.text\n    if response.status_code == 200:\n        response_data = response.json()[\"data\"]\n        assert \"buckets\" in response_data\n        assert isinstance(response_data[\"buckets\"], list)\n# Test the Get user by ID endpoint - GET /api/v1/user/{user_id}\ndef test_get_user_by_id(client: TestClient):",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_user_by_id",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_get_user_by_id(client: TestClient):\n    response = client.get(\"/api/v1/user/1\")\n    assert response.status_code == 200, response.text\n    response_data = response.json()\n    user_data = response_data[\"data\"][\"user\"]\n    assert \"buckets\" in response_data[\"data\"]\n    buckets_data = response_data[\"data\"][\"buckets\"]\n    assert \"id\" in user_data\n    assert \"created_at\" in user_data\n    assert isinstance(buckets_data, list)",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "test_user_bucket_by_id",
+        "kind": 2,
+        "importPath": "src.tests.routes.test_user",
+        "description": "src.tests.routes.test_user",
+        "peekOfCode": "def test_user_bucket_by_id(client: TestClient, create_test_user_auth_header):\n    response = client.get(\"/api/v1/user/bucket/1\", headers=create_test_user_auth_header)\n    assert response.status_code == 200 or response.status_code == 404, response.text\n    if response.status_code == 200:\n        response_data = response.json()[\"data\"]\n        assert \"id\" in response_data\n        assert \"goal\" in response_data\n        assert \"created_at\" in response_data",
+        "detail": "src.tests.routes.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_test_user_token",
+        "kind": 2,
+        "importPath": "src.tests.utils.user",
+        "description": "src.tests.utils.user",
+        "peekOfCode": "def fetch_test_user_token(client: TestClient, email: str, password: str) -> dict:\n    \"\"\"\n    Description: Fetch user bearer token from /login endpoint\n    \"\"\"\n    data = {\"email\": email, \"password\": password}\n    r = client.post(\"/api/v1/auth/login\", json=data)\n    response = r.json()\n    print(response)\n    access_token = response[\"access_token\"]\n    auth_header = {\"Authorization\": f\"Bearer {access_token}\"}",
+        "detail": "src.tests.utils.user",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_test_user_auth_header",
+        "kind": 2,
+        "importPath": "src.tests.utils.user",
+        "description": "src.tests.utils.user",
+        "peekOfCode": "def fetch_test_user_auth_header(client: TestClient, db: Session) -> dict:\n    \"\"\"\n    Description: Generate test user authorization header\n    \"\"\"\n    existing_test_user = query_user_by_email(db, TEST_USER_EMAIL)\n    if not existing_test_user:\n        test_user = UserModel(\n            email=TEST_USER_EMAIL,\n            username=\"test-user\",\n            bio=\"Test Bio\",",
+        "detail": "src.tests.utils.user",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_USER_EMAIL",
+        "kind": 5,
+        "importPath": "src.tests.utils.user",
+        "description": "src.tests.utils.user",
+        "peekOfCode": "TEST_USER_EMAIL = \"test-user@gmail.com\"\nTEST_USER_PASSWORD = \"Password1!\"\ndef fetch_test_user_token(client: TestClient, email: str, password: str) -> dict:\n    \"\"\"\n    Description: Fetch user bearer token from /login endpoint\n    \"\"\"\n    data = {\"email\": email, \"password\": password}\n    r = client.post(\"/api/v1/auth/login\", json=data)\n    response = r.json()\n    print(response)",
+        "detail": "src.tests.utils.user",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_USER_PASSWORD",
+        "kind": 5,
+        "importPath": "src.tests.utils.user",
+        "description": "src.tests.utils.user",
+        "peekOfCode": "TEST_USER_PASSWORD = \"Password1!\"\ndef fetch_test_user_token(client: TestClient, email: str, password: str) -> dict:\n    \"\"\"\n    Description: Fetch user bearer token from /login endpoint\n    \"\"\"\n    data = {\"email\": email, \"password\": password}\n    r = client.post(\"/api/v1/auth/login\", json=data)\n    response = r.json()\n    print(response)\n    access_token = response[\"access_token\"]",
+        "detail": "src.tests.utils.user",
+        "documentation": {}
+    },
+    {
+        "label": "db_session",
+        "kind": 2,
+        "importPath": "src.tests.conftest",
+        "description": "src.tests.conftest",
+        "peekOfCode": "def db_session() -> Generator[TestingSessionLocal, Any, None]:\n    \"\"\"\n    Description: Create the db_session Pytest Fixture for testing.\n    \"\"\"\n    connection = engine.connect()\n    transaction = connection.begin()\n    session = TestingSessionLocal(bind=connection)\n    yield session  # use the session in tests.\n    # Cleaning up transactions\n    session.close()",
+        "detail": "src.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 2,
+        "importPath": "src.tests.conftest",
+        "description": "src.tests.conftest",
+        "peekOfCode": "def client(db_session: TestingSessionLocal) -> Generator[TestClient, Any, None]:\n    \"\"\"\n    Description: Pytest fixture for the FastAPI Test Client\n    \"\"\"\n    # Override the base db session dependency to use the testing session\n    # This overrides the `get_db` dependency which is injected into routes for testing purposes only\n    def override_get_db():\n        try:\n            yield db_session\n        finally:",
+        "detail": "src.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "create_test_user_auth_header",
+        "kind": 2,
+        "importPath": "src.tests.conftest",
+        "description": "src.tests.conftest",
+        "peekOfCode": "def create_test_user_auth_header(client: TestClient, db_session: TestingSessionLocal):\n    \"\"\"\n    Description: Pytest Fixture for the test user authorization header\n    \"\"\"\n    return fetch_test_user_auth_header(client, db_session)",
+        "detail": "src.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "src.tests.conftest",
+        "description": "src.tests.conftest",
+        "peekOfCode": "TEST_SQLALCHEMY_DATABASE_URL = \"sqlite:///./bucket-list-test.db\"\nengine = create_engine(\n    TEST_SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase.metadata.create_all(bind=engine)\n@pytest.fixture(scope=\"module\")\ndef db_session() -> Generator[TestingSessionLocal, Any, None]:\n    \"\"\"\n    Description: Create the db_session Pytest Fixture for testing.",
+        "detail": "src.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "src.tests.conftest",
+        "description": "src.tests.conftest",
+        "peekOfCode": "engine = create_engine(\n    TEST_SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase.metadata.create_all(bind=engine)\n@pytest.fixture(scope=\"module\")\ndef db_session() -> Generator[TestingSessionLocal, Any, None]:\n    \"\"\"\n    Description: Create the db_session Pytest Fixture for testing.\n    \"\"\"",
+        "detail": "src.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "TestingSessionLocal",
+        "kind": 5,
+        "importPath": "src.tests.conftest",
+        "description": "src.tests.conftest",
+        "peekOfCode": "TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase.metadata.create_all(bind=engine)\n@pytest.fixture(scope=\"module\")\ndef db_session() -> Generator[TestingSessionLocal, Any, None]:\n    \"\"\"\n    Description: Create the db_session Pytest Fixture for testing.\n    \"\"\"\n    connection = engine.connect()\n    transaction = connection.begin()\n    session = TestingSessionLocal(bind=connection)",
+        "detail": "src.tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = \"sqlite:///./bucket-list.db\"\nengine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "engine = create_engine(\n    SQLALCHEMY_DATABASE_URL, connect_args={\"check_same_thread\": False}\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "src.database",
+        "description": "src.database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "src.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "src.dependency",
+        "description": "src.dependency",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "src.dependency",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Demo FastAPI and Github actions app\",\n    version=\"0.01\",\n    description=\"A FastAPI app deployed to Heroku with a Github actions CI/CD pipeline.\",\n    contact={\n        \"name\": \"Similoluwa Okunowo\",\n        \"url\": \"https://simiokunowo.netlify.app\",\n        \"email\": \"rexsimiloluwa@gmail.com\",\n    },\n)",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "BASE_URL = \"/api/v1\"\napp.include_router(auth_router.router, tags=[\"Auth\"], prefix=BASE_URL)\napp.include_router(bucket_router.router, tags=[\"Bucket\"], prefix=BASE_URL)\napp.include_router(user_router.router, tags=[\"User\"], prefix=BASE_URL)\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_headers=[\"*\"],\n    allow_methods=[\"*\"],\n    allow_credentials=True,",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "UserBaseSchema",
+        "kind": 6,
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "peekOfCode": "class UserBaseSchema(BaseModel):\n    username: str\n    email: EmailStr\n    bio: Optional[constr(max_length=400)] = None\n    location: Optional[str] = None\n    website: Optional[str] = None\n    phone_number: Optional[str] = None\n    class Config:\n        orm_mode = True\nclass UserRegisterSchema(UserBaseSchema):",
+        "detail": "src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterSchema",
+        "kind": 6,
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "peekOfCode": "class UserRegisterSchema(UserBaseSchema):\n    password: str\n    created_at: datetime = datetime.utcnow()\n    updated_at: datetime = datetime.utcnow()\n    @validator(\"password\")\n    def validate_password(cls, v):\n        pattern = (\n            r\"^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*#?&])[A-Za-z\\d@$!#%*?&]{8,50}$\"\n        )\n        if len(v) < 8:",
+        "detail": "src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginSchema",
+        "kind": 6,
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "peekOfCode": "class UserLoginSchema(BaseModel):\n    email: EmailStr\n    password: str\nclass UserUpdateSchema(BaseModel):\n    bio: Optional[constr(max_length=400)] = None\n    location: Optional[str] = None\n    website: Optional[str] = None\n    phone_number: Optional[str] = None\n    updated_at: datetime = datetime.utcnow()\nclass BucketSchema(BaseModel):",
+        "detail": "src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateSchema",
+        "kind": 6,
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "peekOfCode": "class UserUpdateSchema(BaseModel):\n    bio: Optional[constr(max_length=400)] = None\n    location: Optional[str] = None\n    website: Optional[str] = None\n    phone_number: Optional[str] = None\n    updated_at: datetime = datetime.utcnow()\nclass BucketSchema(BaseModel):\n    goal: str\n    category: str\n    active: bool = True",
+        "detail": "src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketSchema",
+        "kind": 6,
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "peekOfCode": "class BucketSchema(BaseModel):\n    goal: str\n    category: str\n    active: bool = True\n    visibility: str = \"private\"\n    due_date: datetime = None\n    created_at: datetime = datetime.utcnow()\n    @validator(\"visibility\")\n    def validate_visibility(cls, v):\n        if v not in [\"public\", \"private\"]:",
+        "detail": "src.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BucketUpdateSchema",
+        "kind": 6,
+        "importPath": "src.schemas",
+        "description": "src.schemas",
+        "peekOfCode": "class BucketUpdateSchema(BaseModel):\n    goal: Optional[str]\n    category: Optional[str]\n    active: bool = True\n    visibility: str = \"private\"\n    due_date: datetime = None\n    updated_at: datetime = datetime.utcnow()\n    @validator(\"visibility\")\n    def validate_visibility(cls, v):\n        if v not in [\"public\", \"private\"]:",
+        "detail": "src.schemas",
+        "documentation": {}
+    }
+]
