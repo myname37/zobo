@@ -36,6 +36,7 @@ jobs:
         python -m pip install pydantic[email]
         python -m pip install passlib
         python -m pip install jwt
+        python -m pip install python-decouple
         python -m pip install black pytest
         if [ -f instal.txt ]; then pip install -r instal.txt; fi
 
