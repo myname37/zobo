@@ -1,4 +1,3 @@
-from fastapi import FastAPI
 from fastapi.testclient import TestClient
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -8,6 +7,7 @@ from typing import Any, Generator
 from database import Base
 from tests.utils.user import fetch_test_user_auth_header
 import pytest
+import fastapi
 
 TEST_SQLALCHEMY_DATABASE_URL = "sqlite:///./bucket-list-test.db"
 engine = create_engine(
