@@ -1,9 +1,9 @@
+from fastapi import FastAPI
 from fastapi.testclient import TestClient
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from main import app
 from dependency import get_db
-#from decouple import config
 from typing import Any, Generator
 from database import Base
 from tests.utils.user import fetch_test_user_auth_header
