@@ -5,7 +5,7 @@ def test_register(client: TestClient):
     data = {
         "email": "buhari@gmail.com",
         "password": "Password1!",
-        "username": "buhari",
+        "username": "buhari2",
         "phone_number": "07085130123",
         "bio": "President of this woebegone Nation",
     }
